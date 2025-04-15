@@ -1,6 +1,8 @@
 Antología poética de Gloria Fuertes
 
-=== Poema 1: Isla ignorada ===
+Poema: Isla ignorada
+Año: 1950
+Texto:
 Soy como esa isla que ignorada,
 late acunada por árboles jugosos,
 en el centro de un mar
@@ -44,7 +46,9 @@ y me dejó una cruz para la vida
 —para la muerte me dejó un misterio.
 
 
-=== Poema 2: Soy extraño ciego ===
+Poema: Soy extraño ciego
+Año: 1980
+Texto: 
 Soy extraño ciego
 —no sé caminar
 sin el lazarillo del recuerdo—.
@@ -63,7 +67,9 @@ Como soy ciega y loca,
 equivoqué mis besos.
 
 
-=== Poema 3: Nota autobiográfica ===
+Poema: Nota autobiográfica
+Año: 1980
+Texto: 
 Gloria Fuertes nació en Madrid
 a los dos días de edad,
 pues fue muy laborioso el parto de mi madre
@@ -104,7 +110,9 @@ y quiero comprarme a plazos una flor natural
 como las que le dan a Pemán algunas veces.
 
 
-=== Poema 4: Al borde ===
+Poema: Al borde
+Año: 1995
+Texto: 
 Soy alta;
 en la guerra
 llegué a pesar cuarenta kilos.
@@ -124,7 +132,9 @@ y aquí estoy durmiendo al borde,
 al borde de despertar.
 
 
-=== Poema 5: No sé por qué me quejo ===
+Poema: No sé por qué me quejo
+Año: 
+Texto: 
 No sé por qué me quejo porque al fin estoy sola.
 Y el placer de tirar la ceniza en el suelo,
 sin que nadie te riña,
@@ -146,7 +156,9 @@ solo que a veces tengo,
 un leve sarpullido.
 
 
-=== Poema 6: No tengo nada nunca ===
+Poema: No tengo nada nunca
+Año: 1973
+Texto: 
 No tengo nada nunca en mi gris monedero,
 tampoco nunca nada que ponerme elegante,
 siempre llevo los mismos zapatos sin cordones,
@@ -164,7 +176,9 @@ Al diablo mis zapatos con las bocas abiertas,
 hoy tengo nueva ave en mi corral piando.
 
 
-=== Poema 7: Miradme aquí ===
+Poema: Miradme aquí
+Año: 1962
+Texto: 
 Miradme aquí,
 clavada en una silla,
 escribiendo una carta a las palomas.
@@ -190,7 +204,9 @@ y me coso las carnes con mi hilo de voz:
 ¡Si no sé nada!
 
 
-=== Poema 8: ¡Hago versos, señores! ===
+Poema: ¡Hago versos, señores!
+Año: 1954
+Texto: 
 Hago versos señores, hago versos,
 pero no me gusta que me llamen poetisa,
 me gusta el vino como a los albañiles
@@ -208,7 +224,9 @@ y nos odia la gente y decimos: ¡la vida!
 Esto pasa señores y yo debo decirlo.
 
 
-=== Poema 9: Telegramas de urgencia escribo ===
+Poema: Telegramas de urgencia escribo
+Año: 1968
+Texto: 
 Escribo, más que cantar cuento cosas.
 Destino: la Humanidad.
 Ingredientes: Mucha pena
@@ -232,7 +250,9 @@ de poner aquello en claro
 si nace sin claridad.
 
 
-=== Poema 10: Dentro ===
+Poema: Dentro
+Año: 1973
+Texto: 
 Dentro dentro, no fuera, dentro.
 Me organizan dentro
 tormentas y tormentos,
@@ -256,7 +276,9 @@ contra estas hordas que han entrado al alma,
 —olvidarme de mí sería una canallada—.
 
 
-=== Poema 11: Cuando te nombran ===
+Poema: Cuando te nombran
+Año: 1980
+Texto: 
 Cuando te nombran,
 me roban un poquito de tu nombre;
 parece mentira,
@@ -292,7 +314,9 @@ a todas las preguntas responderé tu nombre
 Dios me condenaría a decirlo sin parar para siempre.
 
 
-=== Poema 12: Una de la madrugada en Madrid ===
+Poema: Una de la madrugada en Madrid
+Año: 1973
+Texto: 
 ... Y no hay dónde llamar —como en América—,
 que llamas y te atiende un sacerdote
 —doctor en psiquiatría—;
@@ -306,7 +330,9 @@ te pones el vestido o tú el traje,
 coges el autobús y eres un muerto.
 
 
-=== Poema 13: Carta explicatoria de Gloria ===
+Poema: Carta explicatoria de Gloria
+Año: 1973
+Texto: 
 Queridos lectores:
 
 Os pido excusas y excusados
@@ -340,7 +366,9 @@ No me escriben y escribo.
 Parece que me voy a morir y escribo.
 
 
-=== Poema 14: Interior con mariposa muerta ===
+Poema: Interior con mariposa muerta
+Año: 1958
+Texto: 
 Interior con mariposa muerta en el sofá.
 
 Oxidadas tengo las bisagras de mis ojos
@@ -368,7 +396,9 @@ en el fondo del fondo
 de la botella.
 
 
-=== Poema 15: Nací para poeta o para muerto ===
+Poema: Nací para poeta o para muerto
+Año: 1954
+Texto: 
 Nací para poeta o para muerto,
 escogí lo difícil
 —supervivo de todos los naufragios—,
@@ -388,7 +418,9 @@ y sigo entre fusiles y pistolas
 sin mancharme las manos.
 
 
-=== Poema 16: Desde que nací en los diarios siempre viene un parte de guerra ===
+Poema: Desde que nací en los diarios siempre viene un parte de guerra
+Año: 1965
+Texto: 
 No sé por qué... recuerdo,
 que hace años, por la noche,
 yo rezaba un padrenuestro,
@@ -411,7 +443,9 @@ sigo y sigo pidiendo con la fe de una pieza.
 Temo tener a Dios cansado de monserga.
 
 
-=== Poema 17: Enfermera de pulpos ===
+Poema: Enfermera de pulpos
+Año: 1969
+Texto: 
 Ellos viven en la mar
 sin pecado terrenal
 —sin mancharse con trilita—,
@@ -428,7 +462,9 @@ tocan el arpa
 por la tarde.
 
 
-=== Poema 18: Autoclase ===
+Poema: Autoclase
+Año: 1973
+Texto: 
 I
 —¿Cómo se llama
 y dónde está la frontera
@@ -457,7 +493,9 @@ el pueblo revoluciona
 me he salido del tiesto).
 
 
-=== Poema 19: Poeta independiente ===
+Poema: Poeta independiente
+Año: 1968
+Texto: 
 Ni fui madre, ni esposa,
 ni viuda, ni religiosa;
 y sin embargo soy
@@ -478,7 +516,9 @@ para llevar a todos
 trozos de paloluz.
 
 
-=== Poema 20: Poseo la poesía ===
+Poema: Poseo la poesía
+Año: 1968
+Texto: 
 Poseo la poesía
 —lo único que poseo—.
 Hoy mando todo a paseo
@@ -500,7 +540,9 @@ amar es lo que me pierde,
 me encuentro en la poesía.
 
 
-=== Poema 21: Para escribir ===
+Poema: Para escribir
+Año: 1962
+Texto: 
 Para escribir me escondo,
 como una mujer primitiva se escondía
 para parir.
@@ -510,7 +552,9 @@ así nadie sabe de mí
 cuando me pierdo para escribiros eso.
 
 
-=== Poema 22: [Hay amas de casa que son] ===
+Poema: [Hay amas de casa que son]
+Año: 1965
+Texto: 
 Hay amas de casa que son:
 Pastilleras,
 alcohólicas,
@@ -518,20 +562,26 @@ ludocas
 o simplemente mártires.
 
 
-=== Poema 23: [... Y pasa lo que pasa] ===
+Poema: [... Y pasa lo que pasa]
+Año: 1965
+Texto: 
 ... Y pasa lo que pasa
 porque no sabemos lo que pasa.
 Si supiéramos lo que pasa
 no pasaría lo que pasa.
 
 
-=== Poema 24: [En la postguerra] ===
+Poema: [En la postguerra]
+Año: 1965
+Texto: 
 En la postguerra,
 los niños delgaditos del suburbio
 jugaban al hockey con fémures y rótulas
 
 
-=== Poema 25: Poemas de guerra y paz ===
+Poema: Poemas de guerra y paz
+Año: 1980
+Texto: 
 Se marchan a la guerra
 nuevos soldados.
 
@@ -563,7 +613,9 @@ Lleva lunares rojos,
 su traje blanco.
 
 
-=== Poema 26: Niñez, juventud, vejez ===
+Poema: Niñez, juventud, vejez
+Año: 1973
+Texto: 
 Nacer, vivir, crecer, saltar,
 reír, chillar, mentir,
 aprender, amar, estudiar,
@@ -583,7 +635,9 @@ desolación...
 tristeza, dejadez... ¡vejez!
 
 
-=== Poema 27: ¿Qué querrá decir esto? (letra para Rosario) ===
+Poema: ¿Qué querrá decir esto? (letra para Rosario)
+Año: 1973
+Texto: 
 Desde niña cantaba y bailaba,
 y soñé que besaba mi pelo,
 y soñé que crecía mi falda.
@@ -620,7 +674,9 @@ Y requiere que ya no pregunte:
 ¿Qué querrá decir esto?
 
 
-=== Poema 28: Era una mujer fuerte y dulce ===
+Poema: Era una mujer fuerte y dulce
+Año: 1980
+Texto: 
 Era una mujer fuerte y dulce.
 Llegó a ser famosa,
 tenía muchos amigos
@@ -628,11 +684,15 @@ pero siempre estaba sola.
 (¡Anda, si era yo!)
 
 
-=== Poema 29: Epitafio ===
+Poema: Epitafio
+Año: 1973
+Texto: 
 Ya no toso.
 
 
-=== Poema 30: Puedo deciros ===
+Poema: Puedo deciros
+Año: 1968
+Texto: 
 Yo puedo deciros
 que el carbón no mancha,
 que el malo no es malo,
@@ -664,7 +724,9 @@ y tengo que manifestarme en la sombra,
 porque hay hombres ¡que se beben la luz!
 
 
-=== Poema 31: Ataco con pluma no con plomo ===
+Poema: Ataco con pluma no con plomo
+Año: 1965
+Texto: 
 Pluma,
 pluma mía.
 Herramienta heredada de trabajo.
@@ -687,7 +749,9 @@ Cariñoso utensilio violento
 porque os doy con mi pluma en la cabeza.
 
 
-=== Poema 32: A un poeta que tuve... y que tengo (Contestando una carta 3-9-44) ===
+Poema: A un poeta que tuve... y que tengo (Contestando una carta 3-9-44)
+Año: 1950
+Texto: 
 Vuelve, soy fuerte y tengo miedo
 de conocer tu sangre,
 y de perder tu verso.
@@ -719,26 +783,34 @@ mi nombre en tu negro cuaderno.
 Yo soy distinta. Yo todo lo comprendo.
 
 
-=== Poema 33: [Si yo volviera a nacer] ===
+Poema 33: [Si yo volviera a nacer]
+Año: 1973
+Texto: 
 Si yo volviera a nacer
 haría lo que no hice,
 lo que ya no puedo hacer.
 
 
-=== Poema 34: [Hay pocas] ===
+Poema: [Hay pocas]
+Año: 1962
+Texto: 
 Hay pocas
 pero hay ovejas negras.
 Yo soy una de ellas.
 
 
-=== Poema 35: [Escribo para niños para comer] ===
+Poema: [Escribo para niños para comer]
+Año: 1980
+Texto: 
 Escribo para niños para comer.
 Escribo para mayores para vivir.
 Escribo poesía porque no puedo evitarlo
 y escribo testamentos por si me pasa algo.
 
 
-=== Poema 36: [Quiero hacer la poesía] ===
+Poema: [Quiero hacer la poesía]
+Año: 1962
+Texto: 
 Quiero hacer la poesía
 que no hace ningún poeta.
 Rechazo copiar,
